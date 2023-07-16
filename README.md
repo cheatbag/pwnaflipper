@@ -5,7 +5,7 @@ This mod allows you to use custom images as pwnagotchi Faces, with transparency 
 (IF THIS PROJECT WORKED FOR YOU PLEASE 🌟)
 
 
-# Themes
+# Current Themes
 
 Starting a collection of custom themes for pwnagotchi. Create your own and send me your pull request!
 
