@@ -2,6 +2,8 @@
 Project for those who are tired of the same old string faces.
 This mod allows you to use custom images as pwnagotchi Faces, with transparency feature (.png)
 
+(IF THIS PROJECT WORKED FOR YOU PLEASE 🌟)
+
 
 # Themes
 
