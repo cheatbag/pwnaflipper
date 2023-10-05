@@ -3,7 +3,7 @@ Project for those who are tired of the same old string faces.
 This mod allows you to use custom images as pwnagotchi Faces, with transparency feature (.png)
 fuack u, evilsocket my raspberry pi is broken
 (IF THIS PROJECT WORKED FOR YOU PLEASE 🌟)
-
+credits to rodrigo
 
 # Current Themes
 
